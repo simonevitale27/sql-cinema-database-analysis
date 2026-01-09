@@ -8,13 +8,14 @@ Schema E/R
 - SALE (CodSala, Posti, Nome, Città)
 - REGISTI (CodRegista, Nome)
 
-Competenze Tecniche Dimostrate
-Join Complesse: Utilizzo di INNER, LEFT e FULL JOIN per collegare fino a 4 tabelle simultaneamente.
-Subquery: Implementazione di subquery correlate e annidate con operatori IN, NOT IN, EXISTS.
-Logica Condizionale: Filtraggio avanzato tramite clausole WHERE e operatori di confronto.
-Insiemistica: Gestione di esclusioni totali e intersezioni di dati.
-Aggregazioni: Analisi di incassi e performance.
-Organizzazione dei File
+Competenze Tecniche Dimostrate:
+- Join Complesse: Utilizzo di INNER, LEFT e FULL JOIN per collegare fino a 4 tabelle simultaneamente.
+- Subquery: Implementazione di subquery correlate e annidate con operatori IN, NOT IN, EXISTS.
+- Logica Condizionale: Filtraggio avanzato tramite clausole WHERE e operatori di confronto.
+- Insiemistica: Gestione di esclusioni totali e intersezioni di dati.
+- Aggregazioni: Analisi di incassi e performance.
+
+Organizzazione dei File:
 /scripts: Contiene i file .sql con le query commentate.
 /database: Contiene il file dump_cinema.sql per la replica dell'ambiente.
 

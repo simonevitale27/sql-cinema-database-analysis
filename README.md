@@ -16,8 +16,8 @@ Competenze Tecniche Dimostrate:
 - Aggregazioni: Analisi di incassi e performance.
 
 Organizzazione dei File:
-/scripts: Contiene i file .sql con le query commentate.
-/database: Contiene il file dump_cinema.sql per la replica dell'ambiente.
+- /scripts: Contiene i file .sql con le query commentate.
+- /database: Contiene il file dump_cinema.sql per la replica dell'ambiente.
 
 Requisiti
 Server SQL (MySQL, PostgreSQL o SQL Server).
